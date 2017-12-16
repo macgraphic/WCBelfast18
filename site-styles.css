@@ -85,6 +85,15 @@ body {
 		color: #fab200;
 		background: #1f141c;
 	}
+
+	.site-branding .custom-logo-link img {
+		max-height: 110px; 
+	}
+
+	.site-branding-text p.site-title {
+		content: 'WCBelfast';
+		font-size: 4rem;
+	}
 }
 
 
