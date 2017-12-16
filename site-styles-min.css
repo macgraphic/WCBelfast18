@@ -4,6 +4,8 @@ Add-on styles for WCBelfast - based on the CampSite 2017 theme
 /* Header */
 .site-branding { text-align: center; }
 
+.custom-header { background: url("https://2018.belfast.wordcamp.org/files/2017/12/belfast.png") #21759b; background-position: bottom center; border-bottom: 10px solid #174d66; }
+
 body { background: #f3f3f3; }
 
 @media only screen and (min-width: 543px) { .site-branding { text-align: left; } }
