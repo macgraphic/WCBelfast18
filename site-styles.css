@@ -2,6 +2,9 @@
 Add-on styles for WCBelfast - based on the CampSite 2017 theme
 */
 
+body {
+	font-family: 'Open Sans', sans-serif;
+}
 
 /* Header */
 
