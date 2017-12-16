@@ -17,3 +17,7 @@ Add-on styles for WCBelfast - based on the CampSite 2017 theme
 body { background: #f3f3f3; }
 
 @media only screen and (min-width: 543px) { .site-branding { text-align: left; } }
+
+@media screen and (min-width: 48em) { .custom-header { margin-bottom: 70px; }
+  .main-navigation a { padding: 1em 1em; }
+  .main-navigation ul ul a { color: #1f141c; } }
