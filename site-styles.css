@@ -63,4 +63,9 @@ body {
 	.main-navigation ul ul a {
 		color: #1f141c;
 	}
+
+	.main-navigation ul ul a:hover {
+		color: #fab200;
+		background: #1f141c;
+	}
 }
