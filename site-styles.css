@@ -31,6 +31,10 @@ Add-on styles for WCBelfast - based on the CampSite 2017 theme
 	color: #fff;
 }
 
+.navigation-top ul li.current_page_item {
+	color: #fff;
+}
+
 body {
 	background: #f3f3f3;
 }
