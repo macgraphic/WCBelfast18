@@ -21,16 +21,13 @@ Add-on styles for WCBelfast - based on the CampSite 2017 theme
 	border: none;
 }
 
-.navigation-top .current-menu-item > a, .navigation-top .current_page_item > a {
+.navigation-top a {
 	color: #fab200;
 }
 
-.navigation-top .current-menu-item > a:hover,
-.navigation-top .current_page_item > a:hover,
-.navigation-top .current-menu-item > a:focus,
-.navigation-top .current_page_item > a:focus,
-.navigation-top .current-menu-item > a:active,
-.navigation-top .current_page_item > a:active {
+.navigation-top a:hover,
+.navigation-top a:focus,
+.navigation-top a:active {
 	color: #fff;
 }
 

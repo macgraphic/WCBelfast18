@@ -8,9 +8,9 @@ Add-on styles for WCBelfast - based on the CampSite 2017 theme
 
 .navigation-top { background: #1f141c; border: none; }
 
-.navigation-top .current-menu-item > a, .navigation-top .current_page_item > a { color: #fab200; }
+.navigation-top a { color: #fab200; }
 
-.navigation-top .current-menu-item > a:hover, .navigation-top .current_page_item > a:hover, .navigation-top .current-menu-item > a:focus, .navigation-top .current_page_item > a:focus, .navigation-top .current-menu-item > a:active, .navigation-top .current_page_item > a:active { color: #fff; }
+.navigation-top a:hover, .navigation-top a:focus, .navigation-top a:active { color: #fff; }
 
 body { background: #f3f3f3; }
 
