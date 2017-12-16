@@ -1,4 +1,7 @@
 /*
 Add-on styles for WCBelfast - based on the CampSite 2017 theme
 */
+/* Header */
+.site-branding { text-align: center; }
+
 body { background: #f3f3f3; }
