@@ -94,6 +94,10 @@ body {
 		content: 'WCBelfast';
 		font-size: 4rem;
 	}
+
+	.site-branding-text p.site-description {
+		font-size: 1.35rem;
+	}
 }
 
 
