@@ -6,7 +6,7 @@ body { font-family: 'Open Sans', sans-serif; }
 /* Header */
 .site-branding { text-align: center; }
 
-.site-branding { background: url("https://2018.belfast.wordcamp.org/files/2017/12/belfast.png") #f2f2f2; background-position: bottom 0px center; background-repeat: no-repeat; border-bottom: 6px solid #fab200; }
+.site-branding { background: url("https://2018.belfast.wordcamp.org/files/2017/12/belfast-outline.png") #f2f2f2; background-position: bottom 0px center; background-repeat: repeat-x; border-bottom: 6px solid #fab200; }
 
 .navigation-top { background: #1f141c; border: none; }
 
@@ -18,7 +18,7 @@ body { font-family: 'Open Sans', sans-serif; }
 
 body { background: #f3f3f3; }
 
-@media only screen and (min-width: 543px) { .site-branding { text-align: left; } }
+@media only screen and (min-width: 543px) { /*	.site-branding { text-align: left; }*/ }
 
 @media screen and (min-width: 48em) { #masthead .wrap { text-align: center; }
   .custom-header { margin-bottom: 70px; }
