@@ -38,6 +38,12 @@ body {
 	color: #fff;
 }
 
+/* Menu on small screens */
+
+.menu-toggle {
+	color: #fab200;
+}
+
 body {
 	background: #f3f3f3;
 }

@@ -16,6 +16,9 @@ body { font-family: 'Open Sans', sans-serif; }
 
 .navigation-top .current-menu-item > a, .navigation-top .current_page_item > a { color: #fff; }
 
+/* Menu on small screens */
+.menu-toggle { color: #fab200; }
+
 body { background: #f3f3f3; }
 
 @media only screen and (min-width: 543px) { /*	.site-branding { text-align: left; }*/ }
