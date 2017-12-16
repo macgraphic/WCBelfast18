@@ -12,7 +12,7 @@ Add-on styles for WCBelfast - based on the CampSite 2017 theme
 
 .navigation-top a:hover, .navigation-top a:focus, .navigation-top a:active { color: #fff; }
 
-.navigation-top ul li.current_page_item { color: #fff; }
+.navigation-top .current-menu-item > a, .navigation-top .current_page_item > a { color: #fff; }
 
 body { background: #f3f3f3; }
 
