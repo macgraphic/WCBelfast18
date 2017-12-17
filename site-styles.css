@@ -82,7 +82,7 @@ body.home .wp-block-column h5 {
 	width: 100%;
 }
 
-.site-footer .widget-column.footer-widget-1 a.sponsor-logo {
+/*.site-footer .widget-column.footer-widget-1 a.sponsor-logo {
 	max-width: 40%;
 	float: left;
 }
@@ -90,6 +90,18 @@ body.home .wp-block-column h5 {
 .site-footer .widget-column.footer-widget-1 a.sponsor-logo img {
 	max-width: 400px;
 	max-height: 300px;
+}*/
+
+.textwidget ul.sponsor-level {
+	list-style: none;
+}
+
+.textwidget ul.sponsor-level li.sponsor-logo {
+	width: 50%;
+	display: flex;
+	flex-wrap: wrap;
+	justify-content: center;
+	text-align: center;
 }
 
 @media only screen and (max-width: 767px) {
