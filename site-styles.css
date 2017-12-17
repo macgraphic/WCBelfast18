@@ -112,4 +112,8 @@ body {
 		padding-bottom: 3px;
 		border-bottom: 3px solid #fab200;
 	}
+
+	.single-featured-image-header img {
+		padding-bottom: 3px;
+	}
 }
