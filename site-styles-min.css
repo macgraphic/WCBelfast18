@@ -25,6 +25,10 @@ body { background: #f3f3f3; }
 
 header.entry-header .edit-link { display: none; }
 
+body.home .wp-block-column { border: 1px solid #fab200; font-size: 125%; }
+
+body.home .wp-block-column h5 { color: #1f141c; background: #fab200; padding: .5rem; }
+
 @media only screen and (max-width: 767px) { .navigation-top .current-menu-item > a, .navigation-top .current_page_item > a { color: #1f141c; } }
 
 @media only screen and (min-width: 543px) { /*	.site-branding { text-align: left; }*/ }
