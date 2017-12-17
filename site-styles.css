@@ -205,3 +205,7 @@ body.home .wp-block-column h5 {
 .shutter-out-horizontal:hover:before, .shutter-out-horizontal:focus:before, .shutter-out-horizontal:active:before {
   transform: scaleX(1);
 }
+
+.wp-block-column .home-block .shutter-out-horizontal a img {
+	box-shadow: none;
+}
