@@ -69,6 +69,7 @@ body.home .wp-block-column h5 {
 	color: #1f141c;
 	background: #fab200;
 	padding: .5rem;
+	font-size: 1.1rem;
 }
 
 @media only screen and (max-width: 767px) {
@@ -122,13 +123,18 @@ body.home .wp-block-column h5 {
 
 	.panel-image {
 		background:  #1f141c;
+		width: 100%;
 	}
 
 	.background-fixed .panel-image {
-		max-height: 400px;
 		background-attachment: initial;
-		max-width: 1200px;
 		margin: 0 auto;
+	}
+
+	.background-fixed .panel-image img {
+		max-height: 400px;
+		max-width: 1200px;
+		
 	}
 
 }

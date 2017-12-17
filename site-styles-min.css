@@ -27,7 +27,7 @@ header.entry-header .edit-link { display: none; }
 
 body.home .wp-block-column { border: 1px solid #fab200; font-size: 125%; }
 
-body.home .wp-block-column h5 { color: #1f141c; background: #fab200; padding: .5rem; }
+body.home .wp-block-column h5 { color: #1f141c; background: #fab200; padding: .5rem; font-size: 1.1rem; }
 
 @media only screen and (max-width: 767px) { .navigation-top .current-menu-item > a, .navigation-top .current_page_item > a { color: #1f141c; } }
 
@@ -41,8 +41,9 @@ body.home .wp-block-column h5 { color: #1f141c; background: #fab200; padding: .5
   .site-branding .custom-logo-link img { max-height: 110px; }
   .site-branding-text p.site-title { font-size: 3.2rem; color: #1f141c; }
   .site-branding-text p.site-description { font-size: 1.35rem; }
-  .panel-image { background: #1f141c; }
-  .background-fixed .panel-image { max-height: 400px; background-attachment: initial; max-width: 1200px; margin: 0 auto; } }
+  .panel-image { background: #1f141c; width: 100%; }
+  .background-fixed .panel-image { background-attachment: initial; margin: 0 auto; }
+  .background-fixed .panel-image img { max-height: 400px; max-width: 1200px; } }
 
 @media screen and (min-width: 30em) { .page-one-column .panel-content .wrap { max-width: 1000px; }
   .single-featured-image-header { max-height: 400px; background-color: #1f141c; border-bottom: none; } }
