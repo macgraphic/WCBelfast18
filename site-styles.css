@@ -153,6 +153,11 @@ body.home .wp-block-column h5 {
 
 }
 
+body.single-wcb_sponsor .single-featured-image-header {
+	background: #fefefe;
+	margin: 2rem auto;
+}
+
 @media screen and (min-width: 30em) {
 	.page-one-column .panel-content .wrap {
 		max-width: 1000px;
