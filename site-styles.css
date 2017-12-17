@@ -178,6 +178,7 @@ body.home .wp-block-column h5 {
 	box-shadow: 0 0 1px transparent;
 	position: relative;
 	background: #fab200;
+	border: 1px solid #1f141c;
 	color: #1f141c;
 	transition-property: all;
 	transition-duration: 0.3s;
@@ -192,10 +193,11 @@ body.home .wp-block-column h5 {
 	left: 0;
 	right: 0;
 	background: #1f141c;
+	border: 1px solid #fab200;
 	color: #fab200;
 	transform: scaleX(0);
 	transform-origin: 50%;
-	transition-property: transform;
+	transition-property: all;
 	transition-duration: 0.3s;
 	transition-timing-function: ease-out;
 }
