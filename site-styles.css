@@ -192,6 +192,10 @@ body.home .wp-block-column h5 {
 		padding-bottom: 10rem;
 	}
 
+	.site-footer {
+		margin-top: 0px;
+	}
+
 }
 
 body.single-wcb_sponsor .single-featured-image-header {
