@@ -46,7 +46,7 @@ body.home .wp-block-column h5 { color: #1f141c; background: #fab200; padding: .5
   .background-fixed .panel-image { border-bottom: 4px solid #fab200; }
   /*.background-fixed .panel-image { background-attachment: initial; margin: 0 auto; background-repeat: no-repeat; position: center center; } .background-fixed .panel-image img { max-height: 400px; max-width: 1200px; }*/ }
 
-body.single-wcb_sponsor .single-featured-image-header { background: transparent; margin: 2rem auto; }
+body.single-wcb_sponsor .single-featured-image-header { background: transparent; margin: 2rem auto; max-width: 600px; max-height: 400px; }
 
 @media screen and (min-width: 30em) { .page-one-column .panel-content .wrap { max-width: 1000px; }
   .single-featured-image-header { max-height: 400px; background-color: #1f141c; border-bottom: none; } }

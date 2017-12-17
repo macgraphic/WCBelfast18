@@ -156,6 +156,8 @@ body.home .wp-block-column h5 {
 body.single-wcb_sponsor .single-featured-image-header {
 	background: rgba( 0,0,0,0);
 	margin: 2rem auto;
+	max-width: 600px;
+	max-height: 400px;
 }
 
 @media screen and (min-width: 30em) {
