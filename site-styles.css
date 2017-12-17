@@ -97,9 +97,9 @@ body.home .wp-block-column h5 {
 	color: #fab200;
 }
 
-.wcb_widget_sponsors .sponsor-logo {
+.wcb_widget_sponsors a.sponsor-logo {
 	max-width: 50%;
-	display: inline;
+	display: inline-flex;
 	padding: 1rem;
 	text-align: center;
 }
@@ -109,9 +109,13 @@ body.home .wp-block-column h5 {
 	box-shadow: none;
 }
 
-.wcb_widget_sponsors .widget a, 
-.wcb_widget_sponsors .site-footer .widget-area a {
-	box-shadow: none;
+.entry-content a,
+.entry-summary a,
+.widget a,
+.site-footer .widget-area a,
+.posts-navigation a,
+.widget_authors a strong {
+	box-shadow: none !important;
 }
 
 
