@@ -154,7 +154,7 @@ body.home .wp-block-column h5 {
 }
 
 body.single-wcb_sponsor .single-featured-image-header {
-	background: #fafafa;
+	background: rgba( 0,0,0,0);
 	margin: 2rem auto;
 }
 
