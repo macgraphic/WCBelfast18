@@ -125,7 +125,13 @@ body.home .wp-block-column h5 {
 		width: 100%;
 		max-height: 400px;
 		margin: 0 auto;
-	}	
+	}
+
+	.panel-image img {
+		max-height: 400px;
+		max-width: 1200px;
+		margin: 0 auto;
+	}
 	
 
 	/*.background-fixed .panel-image {
