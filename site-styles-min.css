@@ -36,3 +36,7 @@ body { background: #f3f3f3; }
 
 @media screen and (min-width: 30em) { .page-one-column .panel-content .wrap { max-width: 1000px; }
   .single-featured-image-header { max-height: 400px; background-color: #1f141c; border-bottom: none; } }
+
+/* Gutenberg Blocks */
+/* Home Page */
+.home-column { text-align: center; }

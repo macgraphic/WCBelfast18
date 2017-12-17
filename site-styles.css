@@ -113,3 +113,10 @@ body {
 	}
 
 }
+
+/* Gutenberg Blocks */
+	/* Home Page */
+
+	.home-column {
+		text-align: center;
+	}
