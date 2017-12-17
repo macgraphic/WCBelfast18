@@ -21,6 +21,9 @@ body { font-family: 'Open Sans', sans-serif; }
 
 body { background: #f3f3f3; }
 
+/* Single Page */
+.single-featured-image-header img { max-height: 400px; background-color: #1f141c; }
+
 @media only screen and (max-width: 767px) { .navigation-top .current-menu-item > a, .navigation-top .current_page_item > a { color: #1f141c; } }
 
 @media only screen and (min-width: 543px) { /*	.site-branding { text-align: left; }*/ }
@@ -32,7 +35,6 @@ body { background: #f3f3f3; }
   .main-navigation ul ul a:hover { color: #fab200; background: #1f141c; }
   .site-branding .custom-logo-link img { max-height: 110px; }
   .site-branding-text p.site-title { font-size: 3.2rem; color: #1f141c; }
-  .site-branding-text p.site-description { font-size: 1.35rem; }
-  .single-featured-image-header img { max-height: 400px; background-color: #1f141c; } }
+  .site-branding-text p.site-description { font-size: 1.35rem; } }
 
 @media screen and (min-width: 30em) { .page-one-column .panel-content .wrap { max-width: 1000px; } }

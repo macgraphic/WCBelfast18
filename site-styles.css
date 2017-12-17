@@ -49,6 +49,12 @@ body {
 }
 
 
+/* Single Page */
+
+.single-featured-image-header img {
+	max-height: 400px;
+	background-color: #1f141c;
+}
 
 @media only screen and (max-width: 767px) {
 	.navigation-top .current-menu-item > a, .navigation-top .current_page_item > a {
@@ -99,10 +105,6 @@ body {
 		font-size: 1.35rem;
 	}
 
-	.single-featured-image-header img {
-		max-height: 400px;
-		background-color: #1f141c;
-	}
 }
 
 @media screen and (min-width: 30em) {
