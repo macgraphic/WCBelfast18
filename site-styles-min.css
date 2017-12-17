@@ -38,7 +38,7 @@ body.home .wp-block-column h5 { color: #1f141c; background: #fab200; padding: .5
 
 .site-footer .sponsor-level { text-align: center; color: #fab200; }
 
-.wcb_widget_sponsors .sponsor-logo { display: inline-block; padding: 1rem; text-align: center; }
+.wcb_widget_sponsors .sponsor-logo { display: inline-block; padding: 1rem; text-align: center; max-width: 50%; }
 
 .wcb_widget_sponsors .entry-content a img, .wcb_widget_sponsors .widget a img { -webkit-box-shadow: none; box-shadow: none; }
 
