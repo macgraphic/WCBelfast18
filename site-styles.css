@@ -209,3 +209,9 @@ body.home .wp-block-column h5 {
 .entry-content .shutter-out-horizontal a img {
 	box-shadow: none;
 }
+
+.entry-content .shutter-out-horizontal a p {
+	font-size: 1.2rem;
+	font-weight: 700;
+	color: #fff;
+}
