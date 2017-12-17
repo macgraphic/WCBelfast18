@@ -120,6 +120,17 @@ body.home .wp-block-column h5 {
 		font-size: 1.35rem;
 	}
 
+	.panel-image {
+		background:  #1f141c;
+	}
+
+	.background-fixed .panel-image {
+		max-height: 400px;
+		background-attachment: initial;
+		max-width: 1200px;
+		margin: 0 auto;
+	}
+
 }
 
 @media screen and (min-width: 30em) {

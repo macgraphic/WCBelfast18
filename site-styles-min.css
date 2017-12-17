@@ -40,7 +40,9 @@ body.home .wp-block-column h5 { color: #1f141c; background: #fab200; padding: .5
   .main-navigation ul ul a:hover { color: #fab200; background: #1f141c; }
   .site-branding .custom-logo-link img { max-height: 110px; }
   .site-branding-text p.site-title { font-size: 3.2rem; color: #1f141c; }
-  .site-branding-text p.site-description { font-size: 1.35rem; } }
+  .site-branding-text p.site-description { font-size: 1.35rem; }
+  .panel-image { background: #1f141c; }
+  .background-fixed .panel-image { max-height: 400px; background-attachment: initial; max-width: 1200px; margin: 0 auto; } }
 
 @media screen and (min-width: 30em) { .page-one-column .panel-content .wrap { max-width: 1000px; }
   .single-featured-image-header { max-height: 400px; background-color: #1f141c; border-bottom: none; } }
