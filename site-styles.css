@@ -217,3 +217,11 @@ body.home .wp-block-column h5 {
 	font-weight: 700;
 	color: #fff;
 }
+
+body.home .entry-header {
+	display: none;
+}
+
+body.home .entry-content {
+	margin-top: -12rem;
+}

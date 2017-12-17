@@ -64,3 +64,7 @@ body.home .wp-block-column h5 { color: #1f141c; background: #fab200; padding: .5
 .entry-content .shutter-out-horizontal a img { -webkit-box-shadow: none; box-shadow: none; }
 
 .entry-content .shutter-out-horizontal a p { font-size: 1.2rem; font-weight: 700; color: #fff; }
+
+body.home .entry-header { display: none; }
+
+body.home .entry-content { margin-top: -12rem; }
