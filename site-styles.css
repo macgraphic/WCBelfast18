@@ -48,9 +48,11 @@ body {
 	background: #f3f3f3;
 }
 
-header.entry-header h2.entry-title {
-	font-size: 2rem;
-	color: #1f141c;
+.page .panel-content .entry-title,
+.page-title,
+body.page .entry-title {
+	font-size: 2rem !important;
+	color: #1f141c !important;
 	text-align: center;
 }
 
