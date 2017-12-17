@@ -51,7 +51,7 @@ body {
 
 /* Single Page */
 
-.single-featured-image-header img {
+.single-featured-image-header {
 	max-height: 400px;
 	background-color: #1f141c;
 }
