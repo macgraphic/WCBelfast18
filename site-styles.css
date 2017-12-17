@@ -170,7 +170,7 @@ body.home .wp-block-column h5 {
 
 
 /* Shutter Out Horizontal */
-.hvr-shutter-out-horizontal {
+.shutter-out-horizontal {
   display: inline-block;
   vertical-align: middle;
   -webkit-transform: perspective(1px) translateZ(0);
@@ -183,7 +183,7 @@ body.home .wp-block-column h5 {
   -webkit-transition-duration: 0.3s;
   transition-duration: 0.3s;
 }
-.hvr-shutter-out-horizontal:before {
+.shutter-out-horizontal:before {
   content: "";
   position: absolute;
   z-index: -1;
@@ -203,10 +203,10 @@ body.home .wp-block-column h5 {
   -webkit-transition-timing-function: ease-out;
   transition-timing-function: ease-out;
 }
-.hvr-shutter-out-horizontal:hover, .hvr-shutter-out-horizontal:focus, .hvr-shutter-out-horizontal:active {
+.shutter-out-horizontal:hover, .shutter-out-horizontal:focus, .shutter-out-horizontal:active {
   color: white;
 }
-.hvr-shutter-out-horizontal:hover:before, .hvr-shutter-out-horizontal:focus:before, .hvr-shutter-out-horizontal:active:before {
+.shutter-out-horizontal:hover:before, .shutter-out-horizontal:focus:before, .shutter-out-horizontal:active:before {
   -webkit-transform: scaleX(1);
   transform: scaleX(1);
 }
