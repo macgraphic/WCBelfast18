@@ -183,6 +183,7 @@ body.home .wp-block-column h5 {
 
 	.background-fixed .panel-image {
 		border-bottom: 4px solid #fab200;
+		background-attachment: initial;
 	}
 	
 	#content.site-content {

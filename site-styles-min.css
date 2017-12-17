@@ -60,7 +60,7 @@ body.home .wp-block-column h5 { color: #1f141c; background: #fab200; padding: .5
   .site-branding-text p.site-description { font-size: 1.35rem; }
   .panel-image { width: 100%; max-height: 400px; margin: 0 auto; }
   .panel-image img { max-height: 400px; width: 1200px; max-width: 100%; margin: 0 auto; }
-  .background-fixed .panel-image { border-bottom: 4px solid #fab200; }
+  .background-fixed .panel-image { border-bottom: 4px solid #fab200; background-attachment: initial; }
   #content.site-content { background: url("https://2018.belfast.wordcamp.org/files/2017/12/belfast.png"); background-position: bottom center; background-repeat: repeat-x; padding-bottom: 8em; }
   .page:not(.home) #content { padding-bottom: 8em; }
   .site-footer { margin-top: 0px; } }
