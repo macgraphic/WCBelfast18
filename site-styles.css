@@ -189,7 +189,11 @@ body.home .wp-block-column h5 {
 		background: url('https://2018.belfast.wordcamp.org/files/2017/12/belfast.png');
 		background-position: bottom center;
 		background-repeat: repeat-x;
-		padding-bottom: 10rem;
+		padding-bottom: 8em;
+	}
+
+	.page:not(.home) #content {
+		padding-bottom: 8em;
 	}
 
 	.site-footer {
