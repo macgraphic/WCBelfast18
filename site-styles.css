@@ -112,6 +112,12 @@ body.home .wp-block-column h5 {
 	box-shadow: none !important;
 }
 
+.site-info {
+	float: none;
+	width: 100%;
+	text-align: center;
+}
+
 
 @media only screen and (max-width: 767px) {
 	.navigation-top .current-menu-item > a, .navigation-top .current_page_item > a {

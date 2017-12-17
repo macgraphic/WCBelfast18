@@ -44,6 +44,8 @@ body.home .wp-block-column h5 { color: #1f141c; background: #fab200; padding: .5
 
 .wcb_widget_sponsors .entry-content a img, .wcb_widget_sponsors .widget a img, .widget a, .site-footer .widget-area a, .wcb_widget_sponsors a.sponsor-logo { -webkit-box-shadow: none !important; box-shadow: none !important; }
 
+.site-info { float: none; width: 100%; text-align: center; }
+
 @media only screen and (max-width: 767px) { .navigation-top .current-menu-item > a, .navigation-top .current_page_item > a { color: #1f141c; } }
 
 @media only screen and (min-width: 543px) { /*	.site-branding { text-align: left; }*/ }
