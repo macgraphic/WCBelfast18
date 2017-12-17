@@ -42,9 +42,7 @@ body.home .wp-block-column h5 { color: #1f141c; background: #fab200; padding: .5
 
 .wcb_widget_sponsors a.sponsor-logo { max-width: 50%; display: -webkit-inline-box; display: -ms-inline-flexbox; display: inline-flex; padding: 1rem; text-align: center; }
 
-.wcb_widget_sponsors .entry-content a img, .wcb_widget_sponsors .widget a img { -webkit-box-shadow: none; box-shadow: none; }
-
-.entry-content a, .entry-summary a, .widget a, .site-footer .widget-area a, .posts-navigation a, .widget_authors a strong { -webkit-box-shadow: none !important; box-shadow: none !important; }
+.wcb_widget_sponsors .entry-content a img, .wcb_widget_sponsors .widget a img, .entry-content a, .entry-summary a, .widget a, .site-footer .widget-area a, .posts-navigation a, .widget_authors a strong { -webkit-box-shadow: none !important; box-shadow: none !important; }
 
 @media only screen and (max-width: 767px) { .navigation-top .current-menu-item > a, .navigation-top .current_page_item > a { color: #1f141c; } }
 

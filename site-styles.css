@@ -105,10 +105,7 @@ body.home .wp-block-column h5 {
 }
 
 .wcb_widget_sponsors .entry-content a img, 
-.wcb_widget_sponsors .widget a img {
-	box-shadow: none;
-}
-
+.wcb_widget_sponsors .widget a img,
 .entry-content a,
 .entry-summary a,
 .widget a,
