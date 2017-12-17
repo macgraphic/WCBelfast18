@@ -72,6 +72,10 @@ body.home .wp-block-column h5 {
 	font-size: 1.1rem;
 }
 
+.site-footer {
+	background: #fafafa;
+}
+
 @media only screen and (max-width: 767px) {
 	.navigation-top .current-menu-item > a, .navigation-top .current_page_item > a {
 		color: #1f141c;
