@@ -159,8 +159,8 @@ body.home .wp-block-column h5 {
 		max-height: 110px; 
 	}
 
-	.site-branding-text p.site-title {
-		font-size: 3.2rem;
+	.site-branding-text p.site-title a {
+		font-size: 3.2em;
 		color: #1f141c;
 	}
 
