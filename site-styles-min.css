@@ -49,7 +49,7 @@ body.home .wp-block-column h5 { color: #1f141c; background: #fab200; padding: .5
 body.single-wcb_sponsor .single-featured-image-header { background: transparent; margin: 2rem auto; max-width: 600px; max-height: 400px; }
 
 @media screen and (min-width: 30em) { .page-one-column .panel-content .wrap { max-width: 1000px; }
-  .single-featured-image-header { max-height: 400px; background-color: #1f141c; border-bottom: none; } }
+  .single-featured-image-header { max-height: 400px; border-bottom: none; } }
 
 /* Gutenberg Blocks */
 /* Home Page */
