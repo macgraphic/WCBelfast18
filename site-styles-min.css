@@ -35,5 +35,4 @@ body { background: #f3f3f3; }
   .site-branding-text p.site-description { font-size: 1.35rem; } }
 
 @media screen and (min-width: 30em) { .page-one-column .panel-content .wrap { max-width: 1000px; }
-  .single-featured-image-header { max-height: 400px; background-color: #1f141c; padding-bottom: 3px; border-bottom: 3px solid #fab200; }
-  .single-featured-image-header img { margin-bottom: 3px; } }
+  .single-featured-image-header { max-height: 400px; background-color: #1f141c; border-bottom: none; } }

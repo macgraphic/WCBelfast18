@@ -109,11 +109,7 @@ body {
 	.single-featured-image-header {
 		max-height: 400px;
 		background-color: #1f141c;
-		padding-bottom: 3px;
-		border-bottom: 3px solid #fab200;
+		border-bottom: none;
 	}
 
-	.single-featured-image-header img {
-		margin-bottom: 3px;
-	}
 }
