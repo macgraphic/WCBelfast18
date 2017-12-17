@@ -33,6 +33,6 @@ body { background: #f3f3f3; }
   .site-branding .custom-logo-link img { max-height: 110px; }
   .site-branding-text p.site-title { font-size: 3.2rem; color: #1f141c; }
   .site-branding-text p.site-description { font-size: 1.35rem; }
-  .single-featured-image-header img { max-height: 400px; background: #1f141c; } }
+  .single-featured-image-header img { max-height: 400px; background-color: #1f141c; } }
 
 @media screen and (min-width: 30em) { .page-one-column .panel-content .wrap { max-width: 1000px; } }
