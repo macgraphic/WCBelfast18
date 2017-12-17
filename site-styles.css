@@ -86,8 +86,8 @@ body {
 		background: #1f141c;
 	}
 
-	.navigation-top .current-menu-item > ul ul a,
-	.navigation-top .current_page_item > ul ul a {
+	.navigation-top ul li.current-menu-item > ul li a,
+	.navigation-top ul li.current_page_item > ul li a {
 		color: #1f141c;
 	}
 
