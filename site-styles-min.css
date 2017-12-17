@@ -61,7 +61,7 @@ body.home .wp-block-column h5 { color: #1f141c; background: #fab200; padding: .5
   .panel-image { width: 100%; max-height: 400px; margin: 0 auto; }
   .panel-image img { max-height: 400px; width: 1200px; max-width: 100%; margin: 0 auto; }
   .background-fixed .panel-image { border-bottom: 4px solid #fab200; }
-  /*.background-fixed .panel-image { background-attachment: initial; margin: 0 auto; background-repeat: no-repeat; position: center center; } .background-fixed .panel-image img { max-height: 400px; max-width: 1200px; }*/ }
+  #content .site-content { background: url("https://2018.belfast.wordcamp.org/files/2017/12/belfast.png"); background-position: bottom center; background-repeat: repeat-x; padding-bottom: 10rem; } }
 
 body.single-wcb_sponsor .single-featured-image-header { background: transparent; margin: 2rem auto; max-width: 600px; max-height: 400px; }
 
