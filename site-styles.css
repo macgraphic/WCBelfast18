@@ -82,7 +82,7 @@ body {
 	}
 
 	.main-navigation ul ul a:hover {
-		color: #fab200;
+		color: #fab200 !important;
 		background: #1f141c;
 	}
 
