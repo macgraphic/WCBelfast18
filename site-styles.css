@@ -72,8 +72,19 @@ body.home .wp-block-column h5 {
 	font-size: 1.1rem;
 }
 
+/* Footer */
+
 .site-footer {
 	background: #fafafa;
+}
+
+.site-footer .widget-column.footer-widget-1 {
+	width: 100%;
+}
+
+.site-footer .widget-column.footer-widget-1 a.sponsor-logo img {
+	max-width: 40%;
+	float: left;
 }
 
 @media only screen and (max-width: 767px) {
