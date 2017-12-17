@@ -42,7 +42,7 @@ body.home .wp-block-column h5 { color: #1f141c; background: #fab200; padding: .5
   .site-branding-text p.site-title { font-size: 3.2rem; color: #1f141c; }
   .site-branding-text p.site-description { font-size: 1.35rem; }
   .panel-image { background: #1f141c; width: 100%; }
-  .background-fixed .panel-image { background-attachment: initial; margin: 0 auto; }
+  .background-fixed .panel-image { background-attachment: initial; margin: 0 auto; background-repeat: no-repeat; position: center center; }
   .background-fixed .panel-image img { max-height: 400px; max-width: 1200px; } }
 
 @media screen and (min-width: 30em) { .page-one-column .panel-content .wrap { max-width: 1000px; }
