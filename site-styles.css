@@ -206,6 +206,6 @@ body.home .wp-block-column h5 {
   transform: scaleX(1);
 }
 
-.wp-block-column .home-block .shutter-out-horizontal a img {
+.entry-content .shutter-out-horizontal a img {
 	box-shadow: none;
 }

@@ -61,4 +61,4 @@ body.home .wp-block-column h5 { color: #1f141c; background: #fab200; padding: .5
 
 .shutter-out-horizontal:hover:before, .shutter-out-horizontal:focus:before, .shutter-out-horizontal:active:before { -webkit-transform: scaleX(1); transform: scaleX(1); }
 
-.wp-block-column .home-block .shutter-out-horizontal a img { -webkit-box-shadow: none; box-shadow: none; }
+.entry-content .shutter-out-horizontal a img { -webkit-box-shadow: none; box-shadow: none; }
