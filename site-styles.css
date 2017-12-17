@@ -48,7 +48,15 @@ body {
 	background: #f3f3f3;
 }
 
+header.entry-header h2.entry-title {
+	font-size: 2rem;
+	color: #1f141c;
+	text-align: center;
+}
 
+header.entry-header .edit-link {
+	display: none;
+}
 
 @media only screen and (max-width: 767px) {
 	.navigation-top .current-menu-item > a, .navigation-top .current_page_item > a {
