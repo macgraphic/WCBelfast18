@@ -102,6 +102,18 @@ body.home .wp-block-column h5 {
 	text-align: center;
 }
 
+.wcb_widget_sponsors .sponsor-level .editor a.sponsor-logo {
+	max-width: 33%;
+}
+
+.wcb_widget_sponsors .sponsor-level .author a.sponsor-logo {
+	max-width: 25%;
+}
+
+.wcb_widget_sponsors .sponsor-level .contributor a.sponsor-logo {
+	max-width: 15%;
+}
+
 .wcb_widget_sponsors .entry-content a img, 
 .wcb_widget_sponsors .widget a img,
 .widget a,
