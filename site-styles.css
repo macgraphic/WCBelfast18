@@ -97,8 +97,10 @@ body.home .wp-block-column h5 {
 
 .wcb_widget_sponsors a.sponsor-logo {
 	display: inline-flex;
-	padding: 1rem;
+	padding: 0px;
+	margin: 1rem;
 	text-align: center;
+	background: #fff;
 }
 
 .wcb_widget_sponsors .sponsor-level.admin a.sponsor-logo {
