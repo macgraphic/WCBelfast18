@@ -254,7 +254,7 @@ body.single-wcb_sponsor .single-featured-image-header {
 
 
 /* Shutter Out Horizontal */
-.shutter-out-horizontal {
+.home-top-block.shutter-out-horizontal {
 	display: inline-block;
 	vertical-align: middle;
 	-webkit-transform: perspective(1px) translateZ(0);
@@ -268,7 +268,7 @@ body.single-wcb_sponsor .single-featured-image-header {
 	transition-duration: 0.3s;
 }
 
-.shutter-out-horizontal:before {
+.home-top-block.shutter-out-horizontal:before {
 	content: "";
 	position: absolute;
 	z-index: -1;
@@ -285,19 +285,19 @@ body.single-wcb_sponsor .single-featured-image-header {
 	transition-duration: 0.3s;
 	transition-timing-function: ease-out;
 }
-.shutter-out-horizontal:hover, .shutter-out-horizontal:focus, .shutter-out-horizontal:active {
+.home-top-block.shutter-out-horizontal:hover, .shutter-out-horizontal:focus, .shutter-out-horizontal:active {
   color: #1f141c;
 }
-.shutter-out-horizontal:hover:before, .shutter-out-horizontal:focus:before, .shutter-out-horizontal:active:before {
+.home-top-block.shutter-out-horizontal:hover:before, .shutter-out-horizontal:focus:before, .shutter-out-horizontal:active:before {
   transform: scaleX(1);
 }
 
-.entry-content .shutter-out-horizontal a img {
+.home-top-block.shutter-out-horizontal a img {
 	box-shadow: none;
 	margin: 1rem 0 0 0;
 }
 
-.entry-content .shutter-out-horizontal a p {
+.home-top-block.shutter-out-horizontal a p {
 	font-size: 1.2rem;
 	font-weight: 700;
 	color: #fff;
