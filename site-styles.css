@@ -102,19 +102,23 @@ body.home .wp-block-column h5 {
 }
 
 .wcb_widget_sponsors .sponsor-level.admin a.sponsor-logo {
-	max-width: 50%;
+	max-width: 400px;
+	max-height: 147px;
 }
 
 .wcb_widget_sponsors .sponsor-level.editor a.sponsor-logo {
-	max-width: 33%;
+	max-width: 300px;
+	max-height: 110px;
 }
 
 .wcb_widget_sponsors .sponsor-level.author a.sponsor-logo {
-	max-width: 25%;
+	max-width: 198px;
+	max-height: 73px;
 }
 
 .wcb_widget_sponsors .sponsor-level.contributor a.sponsor-logo {
-	max-width: 15%;
+	max-width: 150px;
+	max-height: 55px;
 }
 
 .wcb_widget_sponsors .entry-content a img, 
