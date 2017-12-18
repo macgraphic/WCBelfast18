@@ -60,15 +60,21 @@ header.entry-header .edit-link {
 }
 
 body.home .wp-block-column {
-	border: 1px solid #fab200;
+	border: 1px solid #1f141c;
 	font-size: 125%;
+	background: rgba(250,178,0,0.8);
 }
 
 body.home .wp-block-column h5 {
-	color: #1f141c;
-	background: #fab200;
+	color: #fab200;
+	background: #1f141c;
 	padding: .5rem;
 	font-size: 1.1rem;
+}
+
+body.home .wp-block-column p {
+	font-size: 120%;
+	font-weight:600;
 }
 
 /* Footer */
