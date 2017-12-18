@@ -59,19 +59,19 @@ header.entry-header .edit-link {
 	display: none;
 }
 
-body.home .wp-block-column {
+body.home .usr-lvl .wp-block-column {
 	border: 1px solid #1f141c;
 	background: rgba(250,178,0,0.8);
 }
 
-body.home .wp-block-column h5 {
+body.home .usr-lvl .wp-block-column h5 {
 	color: #fab200;
 	background: #1f141c;
 	padding: .5rem;
 	font-size: 1.1rem;
 }
 
-body.home .wp-block-column p {
+body.home .usr-lvl .wp-block-column p {
 	font-size: 120%;
 	font-weight:600;
 }
