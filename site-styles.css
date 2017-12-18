@@ -96,21 +96,24 @@ body.home .wp-block-column h5 {
 }
 
 .wcb_widget_sponsors a.sponsor-logo {
-	max-width: 50%;
 	display: inline-flex;
 	padding: 1rem;
 	text-align: center;
 }
 
-.wcb_widget_sponsors .sponsor-level .editor a.sponsor-logo {
+.wcb_widget_sponsors .sponsor-level.admin a.sponsor-logo {
+	max-width: 50%;
+}
+
+.wcb_widget_sponsors .sponsor-level.editor a.sponsor-logo {
 	max-width: 33%;
 }
 
-.wcb_widget_sponsors .sponsor-level .author a.sponsor-logo {
+.wcb_widget_sponsors .sponsor-level.author a.sponsor-logo {
 	max-width: 25%;
 }
 
-.wcb_widget_sponsors .sponsor-level .contributor a.sponsor-logo {
+.wcb_widget_sponsors .sponsor-level.contributor a.sponsor-logo {
 	max-width: 15%;
 }
 
