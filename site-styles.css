@@ -95,6 +95,10 @@ body.home .wp-block-column h5 {
 	color: #fab200;
 }
 
+#wcb_sponsors-2.widget.wcb_widget_sponsors {
+	text-align: center;
+}
+
 .wcb_widget_sponsors a.sponsor-logo {
 	display: inline-flex;
 	padding: 0px;
