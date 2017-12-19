@@ -313,7 +313,7 @@ body.single-wcb_sponsor .single-featured-image-header {
 	box-shadow: 0 0 1px transparent;
 	position: relative;
 	background: #fab200;
-	border: 4px solid #1f141c;
+	border: 4px solid #fab200;
 	color: #1f141c;
 	transition-property: all;
 	transition-duration: 0.3s;
