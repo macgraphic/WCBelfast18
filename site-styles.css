@@ -165,6 +165,11 @@ body.page-slug-sponsorship-packages .sponsor-package-btm {
 	padding: 0rem 1rem 1rem 4rem;
 }
 
+body.page-slug-sponsorship-packages p.sponsor-package-note {
+	font-size: 1.25em;
+	font-style: italic;
+}
+
 .site-info {
 	float: none;
 	width: 100%;
