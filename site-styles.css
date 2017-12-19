@@ -170,10 +170,30 @@ body.page-slug-sponsorship-packages p.sponsor-package-note {
 	font-style: italic;
 }
 
+.terms-notice {
+	border: 1px solid #d5d5d5;
+	background: #e0e0e0;
+	padding: 1rem;
+}
+
+.coc-notice {
+	border: 1px solid #fab200;
+	padding: 1rem;
+	background: rgba(250,178,0, 0.2);
+}
+
 .site-info {
 	float: none;
 	width: 100%;
 	text-align: center;
+}
+
+.wp-block-separator {
+	border-bottom: 2px solid #e0e0e0;
+}
+
+hr {
+	background-color: #e0e0e0;
 }
 
 
