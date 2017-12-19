@@ -145,17 +145,22 @@ header.entry-header .edit-link {
 body.page-slug-sponsorship-packages .sponsor-package-top {
 	background: #fab200;
 	color: #1f141c;
+	margin-bottom: 0px;
+	padding: 1rem;
 }
 
 body.page-slug-sponsorship-packages .sponsor-package-mid {
 	border-right: 1px solid #fab200;
 	border-left: 1px solid #fab200;
+	padding: 1rem;
+	margin-bottom: 0px;
 }
 
 
 body.page-slug-sponsorship-packages .sponsor-package-btm {
 	border: 1px solid #fab200;
 	border-top: none;
+	padding: 0rem 1rem 1rem 4rem;
 }
 
 .site-info {
