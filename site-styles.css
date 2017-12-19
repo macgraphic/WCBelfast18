@@ -141,6 +141,23 @@ header.entry-header .edit-link {
 	box-shadow: none !important;
 }
 
+
+body.page-slug-sponsorship-packages .sponsor-package-top {
+	background: #fab200;
+	color: #1f141c;
+}
+
+body.page-slug-sponsorship-packages .sponsor-package-mid {
+	border-right: 1px solid #fab200;
+	border-left: 1px solid #fab200;
+}
+
+
+body.page-slug-sponsorship-packages .sponsor-package-btm {
+	border: 1px solid #fab200;
+	border-top: none;
+}
+
 .site-info {
 	float: none;
 	width: 100%;
