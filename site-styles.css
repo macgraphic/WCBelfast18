@@ -171,15 +171,17 @@ body.page-slug-sponsorship-packages p.sponsor-package-note {
 }
 
 .terms-notice {
-	border: 1px solid #d5d5d5;
-	background: #e0e0e0;
+	border: 1px solid #e0e0e0;
+	background: #f2f2f2;
 	padding: 1rem;
+	margin: 1rem 0;
 }
 
 .coc-notice {
 	border: 1px solid #fab200;
 	padding: 1rem;
 	background: rgba(250,178,0, 0.2);
+	margin: 1rem 0;
 }
 
 .site-info {
