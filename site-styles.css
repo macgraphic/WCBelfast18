@@ -210,6 +210,11 @@ p.privacy-notice {
 	line-height: 1.25rem;
 }
 
+@media only screen and (min-width: 30em) {
+	.site-branding {
+		padding: 1.5em 0;
+	}
+}
 
 @media only screen and (max-width: 767px) {
 	.navigation-top .current-menu-item > a, .navigation-top .current_page_item > a {
