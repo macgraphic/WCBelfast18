@@ -200,6 +200,14 @@ hr {
 	background-color: #e0e0e0;
 }
 
+p.privacy-notice {
+	margin: 1rem;
+	padding: .5rem;
+	background: #f2f2f2;
+	border: 1px solid #e5e5e5;
+	font-size: .9rem;
+}
+
 
 @media only screen and (max-width: 767px) {
 	.navigation-top .current-menu-item > a, .navigation-top .current_page_item > a {
