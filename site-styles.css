@@ -278,11 +278,10 @@ hr {
 	}
 
 /* The following needs amended */
-	body.page-slug-call-for-sponsors .contact-form input[type=email],
-	body.page-slug-call-for-sponsors .contact-form input[type=text],
-	body.page-slug-call-for-sponsors .contact-form input[type=url] {
+	body.page-slug-call-for-sponsors .contact-form input {
 		max-width: 48% !important;
 		display: inline-block !important;
+		float: right;
 	}
 
 	body.page-slug-call-for-sponsors .contact-form label {
