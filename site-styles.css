@@ -170,6 +170,8 @@ body.page-slug-call-for-sponsors p.sponsor-package-note {
 	font-style: italic;
 }
 
+
+
 .terms-notice {
 	border: 1px solid #e0e0e0;
 	background: #f2f2f2;
@@ -273,6 +275,14 @@ hr {
 
 	.site-footer {
 		margin-top: 0px;
+	}
+
+/* The following needs amended */
+	body.page-slug-call-for-sponsors .contact-form input[type=email],
+	body.page-slug-call-for-sponsors .contact-form input[type=text],
+	body.page-slug-call-for-sponsors .contact-form input[type=url] {
+		max-width: 48% !important;
+		display: inline-block !important;
 	}
 
 }
