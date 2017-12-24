@@ -285,6 +285,10 @@ hr {
 		display: inline-block !important;
 	}
 
+	body.page-slug-call-for-sponsors .contact-form label {
+		display: inline-block;
+	}
+
 }
 
 body.single-wcb_sponsor .single-featured-image-header {
