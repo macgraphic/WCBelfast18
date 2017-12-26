@@ -219,7 +219,7 @@ table.tix_tickets_table {
 
 
 table.tix_tickets_table thead {
-	background: #fab200;
+	background: rgba(250,178,0, 0.2);
 	padding: .25rem .25rem;
 }
 
@@ -233,11 +233,11 @@ table.tix_tickets_table .tix-column-price,
 table.tix_tickets_table .tix-column-remaining,
 table.tix_tickets_table .tix-column-quantity {
 	text-align: center;
-	border-left: 1px solid #fab200;
+	border-left: 1px solid rgba(250,178,0, 0.2);
 }
 
 table.tix_tickets_table tr {
-	border-bottom: 1px solid #fab200;
+	border-bottom: 1px solid rgba(250,178,0, 0.2);
 	padding: .5rem;
 }
 
