@@ -236,6 +236,11 @@ table.tix_tickets_table .tix-column-quantity {
 	border-left: 1px solid #fab200;
 }
 
+table.tix_tickets_table tr {
+	border-bottom: 1px solid #fab200;
+	padding: .5rem;
+}
+
 
 
 @media only screen and (min-width: 30em) {
