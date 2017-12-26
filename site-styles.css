@@ -219,7 +219,7 @@ table.tix_tickets_table {
 
 
 table.tix_tickets_table thead {
-	background: rgba(250,178,0, 0.2);
+	background: #fab200;
 	padding: .25rem .25rem;
 }
 
