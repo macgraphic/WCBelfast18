@@ -214,7 +214,7 @@ p.privacy-notice {
 
 table.tix_tickets_table {
 	border: 1px solid;
-	border-color: #fab200;
+	border-color: #fab200 !important;
 }
 
 
@@ -228,6 +228,13 @@ table.tix_tickets_table td {
 	padding: .25rem;
 }
 
+
+table.tix_tickets_table .tix-column-price,
+table.tix_tickets_table .tix-column-remaining,
+table.tix_tickets_table .tix-column-quantity {
+	text-align: center;
+	border-left: 1px solid #fab200;
+}
 
 
 
