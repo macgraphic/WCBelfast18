@@ -6,6 +6,13 @@ body {
 	font-family: 'Open Sans', sans-serif;
 }
 
+/* Typography */
+
+h1, h2, h3, h4, h5, h6 {
+	font-weight: 600;
+	color: #1f141c;
+}
+
 /* Header */
 
 .site-branding {
@@ -79,9 +86,7 @@ header.entry-header .edit-link {
 /* Home Page 2016 Stats */
 
 h2.stats-head {
-	font-weight: 600;
 	margin: 2rem auto 1rem auto;
-	color: #1f141c;
 	text-align: center;
 }
 
@@ -121,7 +126,6 @@ h2.stats-head {
 
 .site-footer h2.widget-title {
 	font-size: 2.4rem;
-	color: #1f141c;
 	text-align: center;
 	margin-bottom: 1em;
 }
