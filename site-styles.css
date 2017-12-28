@@ -87,7 +87,12 @@ h2.stats-head {
 
 .sixteen-stats-section {
 	text-align: center;
+}
+
+.sixteen-stats-section p {
 	font-weight: 600;
+	font-size: 1.2rem;
+	color: #fab200;
 }
 
 .sixteen-stats-section span.number {
