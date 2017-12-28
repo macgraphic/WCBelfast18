@@ -76,6 +76,19 @@ header.entry-header .edit-link {
 	font-weight:600;
 }
 
+/* Home Page 2016 Stats */
+
+h2.stats-head {
+	font-weight: 600;
+	margin: 2rem auto 1rem auto;
+	color: #1f141c;
+}
+
+.sixteen-stats-section {
+	text-align: center;
+	font-weight: 600;
+}
+
 /* Footer */
 .site-footer {
 	background: #fafafa;
