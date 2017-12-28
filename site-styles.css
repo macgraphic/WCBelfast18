@@ -97,8 +97,9 @@ h2.stats-head {
 
 .sixteen-stats-section span.number {
 	font-size: 4rem;
-	font-weight: 400;
-	border: none;
+	font-weight: 900;
+	border-top: 3px solid #fab200;
+	color: #1f141c;
 }
 
 .sixteen-stats-section span.number:after {
