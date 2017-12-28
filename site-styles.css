@@ -67,13 +67,13 @@ header.entry-header .edit-link {
 }
 
 .home-column.usr-lvl .wp-block-column {
-	border: 1px solid #1f141c;
-	background: rgba(250,178,0,0.8);
+	border: 1px solid #fab200;
+	background: #f2f2f2;
 }
 
 .home-column.usr-lvl .wp-block-column h5 {
-	color: #fab200;
-	background: #1f141c;
+	color: #1f141c;
+	background: #fab200;
 	padding: .5rem;
 	font-size: 1.1rem;
 }
