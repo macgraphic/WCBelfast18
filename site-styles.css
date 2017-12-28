@@ -89,6 +89,16 @@ h2.stats-head {
 	font-weight: 600;
 }
 
+.sixteen-stats-section span.number {
+	font-size: 2rem;
+	font-weight: 900;
+	border: none;
+}
+
+.sixteen-stats-section span.number:after {
+	content: '<hr />';
+}
+
 /* Footer */
 .site-footer {
 	background: #fafafa;
