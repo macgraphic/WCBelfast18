@@ -89,16 +89,19 @@ h2.stats-head {
 	text-align: center;
 }
 
+.sixteen-stats-section .wp-block-column {
+	border-top: 4px solid #fab200;
+}
+
 .sixteen-stats-section p {
-	font-weight: 600;
+	font-weight: 900;
 	font-size: 1.2rem;
 	color: #fab200;
 }
 
 .sixteen-stats-section span.number {
 	font-size: 4rem;
-	font-weight: 900;
-	border-top: 3px solid #fab200;
+	font-weight: 600;
 	color: #1f141c;
 }
 
