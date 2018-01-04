@@ -293,18 +293,36 @@ table.tix_tickets_table thead th {
 		color: #1f141c;
 	}
 
-	.home-top-block.shutter-out-horizontal a p {
+	body.home .home-top-block.shutter-out-horizontal a p {
 		font-size: .9rem;
 		line-height: 1rem;
 	}
 
-	.wp-block-text-columns, .wp-block-text-columns.aligncenter {
+	body.home .wp-block-text-columns,
+	body.home .wp-block-text-columns.aligncenter {
 		margin: 6rem 0 1rem 0;
 	}
 
-	.home-top-block.shutter-out-horizontal a img {
+	body.home .home-top-block.shutter-out-horizontal a img {
 		margin: .5rem 0 0 0;
 		max-width: 3rem;
+	}
+
+	body.home .whats-at h4 {
+		font-size: 1.2rem;
+	}
+
+	body.home .wp-block-text-columns .usr-lvl {
+		margin: 1rem 0;
+	}
+
+	body.home .wp-block-text-columns .usr-lvl .wp-block-column h5 {
+		font-size: .9rem;
+	}
+
+	body.home .home-column.usr-lvl .wp-block-column p {
+		font-size: 90%;
+		font-weight: 400;
 	}
 }
 
