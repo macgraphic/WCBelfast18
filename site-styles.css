@@ -292,6 +292,20 @@ table.tix_tickets_table thead th {
 	.navigation-top .current-menu-item > a, .navigation-top .current_page_item > a {
 		color: #1f141c;
 	}
+
+	.home-top-block.shutter-out-horizontal a p {
+		font-size: .9rem;
+		line-height: 1rem;
+	}
+
+	.wp-block-text-columns, .wp-block-text-columns.aligncenter {
+		margin: 6rem 0 1rem 0;
+	}
+
+	.home-top-block.shutter-out-horizontal a img {
+		margin: .5rem 0 0 0;
+		max-width: 3rem;
+	}
 }
 
 @media screen and (min-width: 48em) {
