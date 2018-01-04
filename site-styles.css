@@ -327,6 +327,8 @@ table.tix_tickets_table thead th {
 	}
 }
 
+
+
 @media screen and (min-width: 48em) {
 
 	#masthead .wrap {
@@ -417,7 +419,25 @@ body.single-wcb_sponsor .single-featured-image-header {
 	max-height: 400px;
 }
 
+@media screen and (max-width: 29.9em) {
+	.wp-block-text-columns.columns-4 .wp-block-column {
+		width: 100%;
+	}
+	.wp-block-text-columns.columns-3 .wp-block-column {
+		width: 100%;
+	}
+}
+
 @media screen and (min-width: 30em) {
+
+	.wp-block-text-columns.columns-4 .wp-block-column {
+		width: 25%;
+	}
+
+	.wp-block-text-columns.columns-3 .wp-block-column {
+		width: 33.33333%;
+	}
+
 	.page-one-column .panel-content .wrap {
 		max-width: 1000px;
 	}
