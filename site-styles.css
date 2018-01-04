@@ -312,20 +312,16 @@ table.tix_tickets_table thead th {
 		font-size: 1.2rem;
 	}
 
-	body.home section.usr-lvl {
-		margin: 1rem 0;
-	}
-
-	body.home section.usr-lvl .wp-block-column {
-		margin: 1rem 0;
+	body.home section.wp-block-column.columns-3.usr-lvl {
+		margin: 1rem 1rem;
 		width: 100%;
 	}
 
-	body.home section.usr-lvl .wp-block-column h5 {
+	body.home section.wp-block-column.columns-3.usr-lvl .wp-block-column h5 {
 		font-size: .9rem;
 	}
 
-	body.home section.usr-lvl .wp-block-column p {
+	body.home section.wp-block-column.columns-3.usr-lvl .wp-block-column p {
 		font-size: 90%;
 		font-weight: 400;
 	}
