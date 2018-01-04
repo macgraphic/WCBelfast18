@@ -312,8 +312,10 @@ table.tix_tickets_table thead th {
 		font-size: 1.2rem;
 	}
 
-	body.home .wp-block-text-columns .usr-lvl {
+	body.home .wp-block-text-columns,
+	body.home .wp-block-text-columns.aligncenter {
 		margin: 1rem 0;
+		width: 100%;
 	}
 
 	body.home .wp-block-text-columns .usr-lvl .wp-block-column h5 {
