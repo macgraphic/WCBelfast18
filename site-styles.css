@@ -293,7 +293,7 @@ table.tix_tickets_table thead th {
 		color: #1f141c;
 	}
 
-	body.home .home-top-block.shutter-out-horizontal a p {
+	/*body.home .home-top-block.shutter-out-horizontal a p {
 		font-size: .9rem;
 		line-height: 1rem;
 	}
@@ -324,7 +324,7 @@ table.tix_tickets_table thead th {
 	body.home section.wp-block-text-columns .columns-3 .usr-lvl p {
 		font-size: 90%;
 		font-weight: 400;
-	}
+	}*/
 }
 
 
