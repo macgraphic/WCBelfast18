@@ -477,5 +477,7 @@ body.home .entry-content {
 
 	.home-top-block.shutter-out-horizontal p {
 		margin-bottom: 0px;
+		font-size: .85rem;
+		font-weight: 600;
 	}
 }
