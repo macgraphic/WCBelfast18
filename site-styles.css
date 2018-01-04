@@ -429,7 +429,7 @@ body.single-wcb_sponsor .single-featured-image-header {
 	right: 0;
 	background: #1f141c;
 	border: 4px solid #fab200;
-	color: #fab200;
+	color: #fff;
 	transform: scaleX(0);
 	transform-origin: 50%;
 	transition-property: all;
@@ -437,7 +437,7 @@ body.single-wcb_sponsor .single-featured-image-header {
 	transition-timing-function: ease-out;
 }
 .home-top-block.shutter-out-horizontal:hover, .shutter-out-horizontal:focus, .shutter-out-horizontal:active {
-  color: #1f141c;
+  color: #fff;
 }
 .home-top-block.shutter-out-horizontal:hover:before, .shutter-out-horizontal:focus:before, .shutter-out-horizontal:active:before {
   transform: scaleX(1);
