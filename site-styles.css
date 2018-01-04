@@ -292,42 +292,7 @@ table.tix_tickets_table thead th {
 	.navigation-top .current-menu-item > a, .navigation-top .current_page_item > a {
 		color: #1f141c;
 	}
-
-	/*body.home .home-top-block.shutter-out-horizontal a p {
-		font-size: .9rem;
-		line-height: 1rem;
-	}
-
-	body.home .wp-block-text-columns,
-	body.home .wp-block-text-columns.aligncenter {
-		margin: 6rem 0 1rem 0;
-	}
-
-	body.home .home-top-block.shutter-out-horizontal a img {
-		margin: .5rem 0 0 0;
-		max-width: 3rem;
-	}
-
-	body.home h4.whats-at {
-		font-size: 1.2rem;
-	}
-
-	body.home section.wp-block-text-columns .columns-3 .usr-lvl {
-		margin: 1rem 1rem;
-		width: 100%;
-	}
-
-	body.home section.wp-block-text-columns .columns-3 .usr-lvl h5 {
-		font-size: .9rem;
-	}
-
-	body.home section.wp-block-text-columns .columns-3 .usr-lvl p {
-		font-size: 90%;
-		font-weight: 400;
-	}*/
 }
-
-
 
 @media screen and (min-width: 48em) {
 
@@ -419,25 +384,7 @@ body.single-wcb_sponsor .single-featured-image-header {
 	max-height: 400px;
 }
 
-@media screen and (max-width: 29.9em) {
-	.wp-block-text-columns.columns-4 .wp-block-column {
-		width: 100% !important;
-	}
-	.wp-block-text-columns.columns-3 .wp-block-column {
-		width: 100% !important;
-	}
-}
-
 @media screen and (min-width: 30em) {
-
-	.wp-block-text-columns.columns-4 .wp-block-column {
-		width: 25% !important;
-	}
-
-	.wp-block-text-columns.columns-3 .wp-block-column {
-		width: 33.33333% !important;
-	}
-
 	.page-one-column .panel-content .wrap {
 		max-width: 1000px;
 	}
