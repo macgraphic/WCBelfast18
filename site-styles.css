@@ -466,6 +466,7 @@ body.home .entry-content {
 
 	.home-top-block.shutter-out-horizontal {
 		margin-top: 8rem;
+		border: none;
 	}
 	.home-top-block.shutter-out-horizontal p img {
 		max-width: 3rem;
