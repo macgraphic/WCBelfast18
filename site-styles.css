@@ -449,18 +449,22 @@ body.home .entry-content {
 @media only screen and (min-width: 40.063em) {
 	.wcb_widget_sponsors .sponsor-level.admin a.sponsor-logo {
 		max-height: 147px;
+		max-width: 400px;
 	}
 
 	.wcb_widget_sponsors .sponsor-level.editor a.sponsor-logo {
 		max-height: 110px;
+		max-width: 300px;
 	}
 
 	.wcb_widget_sponsors .sponsor-level.author a.sponsor-logo {
 		max-height: 73px;
+		max-width: 199px;
 	}
 
 	.wcb_widget_sponsors .sponsor-level.contributor a.sponsor-logo {
 		max-height: 55px;
+		max-width: 150px;
 	}
 }
 
@@ -511,8 +515,8 @@ body.home .entry-content {
 	.wcb_widget_sponsors .sponsor-level.editor a.sponsor-logo,
 	.wcb_widget_sponsors .sponsor-level.author a.sponsor-logo,
 	.wcb_widget_sponsors .sponsor-level.contributor a.sponsor-logo {
-		max-width: 100% !important;
-		max-height: 80px !important;
+		max-width: 150px !important;
+		max-height: 55px !important;
 	}
 
 }
