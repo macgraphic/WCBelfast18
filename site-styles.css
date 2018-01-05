@@ -445,13 +445,13 @@ body.single-wcb_sponsor .single-featured-image-header {
 
 .home-top-block.shutter-out-horizontal a img {
 	box-shadow: none;
-	margin: 1rem 0 0 0;
 }
 
 .home-top-block.shutter-out-horizontal a p {
 	font-size: 1.2rem;
 	font-weight: 700;
 	color: #fff;
+	margin: .5rem auto .5rem auto;
 }
 
 body.home .entry-header {
@@ -476,7 +476,6 @@ body.home .entry-content {
 	}
 
 	.home-top-block.shutter-out-horizontal p {
-		margin-bottom: 0px;
 		font-size: .85rem;
 		font-weight: 600;
 	}
