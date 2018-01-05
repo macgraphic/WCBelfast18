@@ -151,25 +151,7 @@ h2.stats-head {
 	background: #fff;
 }
 
-.wcb_widget_sponsors .sponsor-level.admin a.sponsor-logo {
-	max-width: 400px;
-	max-height: 147px;
-}
 
-.wcb_widget_sponsors .sponsor-level.editor a.sponsor-logo {
-	max-width: 300px;
-	max-height: 110px;
-}
-
-.wcb_widget_sponsors .sponsor-level.author a.sponsor-logo {
-	max-width: 198px;
-	max-height: 73px;
-}
-
-.wcb_widget_sponsors .sponsor-level.contributor a.sponsor-logo {
-	max-width: 150px;
-	max-height: 55px;
-}
 
 .wcb_widget_sponsors .entry-content a img, 
 .wcb_widget_sponsors .widget a img,
@@ -464,6 +446,24 @@ body.home .entry-content {
 
 @media only screen and (max-width: 30em) {}
 
+@media only screen and (min-width: 40.063em) {
+	.wcb_widget_sponsors .sponsor-level.admin a.sponsor-logo {
+		max-height: 147px;
+	}
+
+	.wcb_widget_sponsors .sponsor-level.editor a.sponsor-logo {
+		max-height: 110px;
+	}
+
+	.wcb_widget_sponsors .sponsor-level.author a.sponsor-logo {
+		max-height: 73px;
+	}
+
+	.wcb_widget_sponsors .sponsor-level.contributor a.sponsor-logo {
+		max-height: 55px;
+	}
+}
+
 
 @media only screen and (max-width: 40em) {
 	.wp-block-text-columns,
@@ -500,14 +500,18 @@ body.home .entry-content {
 		font-size: 1.5rem;
 	}
 	
-	.wcb_widget_sponsors .sponsor-logo img {
-		max-height: 80px;
-	}
-	
 	body.home .panel-image {
 		display: none;
 	}
 	
 	body.home .entry-content { margin-top: 0rem;
 	}
+
+	.wcb_widget_sponsors .sponsor-level.admin a.sponsor-logo,
+	.wcb_widget_sponsors .sponsor-level.editor a.sponsor-logo,
+	.wcb_widget_sponsors .sponsor-level.author a.sponsor-logo,
+	.wcb_widget_sponsors .sponsor-level.contributor a.sponsor-logo {
+		max-height: 60px;
+	}
+
 }
