@@ -512,7 +512,7 @@ body.home .entry-content {
 	.wcb_widget_sponsors .sponsor-level.author a.sponsor-logo,
 	.wcb_widget_sponsors .sponsor-level.contributor a.sponsor-logo {
 		max-width: 100% !important;
-		height: auto !important;
+		max-height: 80px !important;
 	}
 
 }
