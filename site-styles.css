@@ -479,7 +479,8 @@ body.home .entry-content {
 	}
 
 	.home-top-block.shutter-out-horizontal {
-		margin-top: 8rem;
+		margin-top: 0rem;
+		padding: 1rem;
 		border: none !important;
 	}
 
