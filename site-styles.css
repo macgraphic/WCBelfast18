@@ -79,8 +79,8 @@ header.entry-header .edit-link {
 }
 
 .home-column.usr-lvl .wp-block-column p {
-	font-size: 120%;
-	font-weight:600;
+	/*font-size: 120%;*/
+	font-weight: 400;
 }
 
 /* Home Page 2016 Stats */
