@@ -462,12 +462,27 @@ body.home .entry-content {
 	margin-top: -12rem;
 }
 
-@media only screen and (max-width: 30em) {
+@media only screen and (max-width: 30em) {}
+
+
+@media only screen and (max-width: 40em) {
+	.wp-block-text-columns,
+	.wp-block-text-columns .wp-block-column {
+		width: 100% !important;
+		display: block !important;
+	}
+	
+	.wp-block-text-columns .wp-block-column {
+		width: 100%;
+		display: block;
+		margin: 1rem 0;
+	}
 
 	.home-top-block.shutter-out-horizontal {
 		margin-top: 8rem;
 		border: none !important;
 	}
+
 	.home-top-block.shutter-out-horizontal p img {
 		max-width: 3rem;
 		max-height: 3rem;
@@ -478,5 +493,20 @@ body.home .entry-content {
 	.home-top-block.shutter-out-horizontal p {
 		font-size: .85rem;
 		font-weight: 600;
+	}
+	
+	.site-footer h2.widget-title {
+		font-size: 1.5rem;
+	}
+	
+	.wcb_widget_sponsors .sponsor-logo img {
+		max-height: 80px;
+	}
+	
+	body.home .panel-image {
+		display: none;
+	}
+	
+	body.home .entry-content { margin-top: 0rem;
 	}
 }
