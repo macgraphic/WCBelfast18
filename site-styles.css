@@ -448,22 +448,18 @@ body.home .entry-content {
 
 @media only screen and (min-width: 40.063em) {
 	.wcb_widget_sponsors .sponsor-level.admin a.sponsor-logo {
-		max-height: 111px;
 		max-width: 403px;
 	}
 
 	.wcb_widget_sponsors .sponsor-level.editor a.sponsor-logo {
-		max-height: 110px;
 		max-width: 300px;
 	}
 
 	.wcb_widget_sponsors .sponsor-level.author a.sponsor-logo {
-		max-height: 73px;
 		max-width: 199px;
 	}
 
 	.wcb_widget_sponsors .sponsor-level.contributor a.sponsor-logo {
-		max-height: 55px;
 		max-width: 150px;
 	}
 }
