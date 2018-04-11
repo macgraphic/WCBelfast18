@@ -479,7 +479,8 @@ table.wcpt-schedule {
 	border-color: #fab200 !important;
 }
 
-table.wcpt-schedule td.wcb-track-farset-labs {
+table.wcpt-schedule td.wcb-track-farset-labs,
+table.wcpt-schedule th.wcpt-col-track {
 	text-align: center;
 }
 
