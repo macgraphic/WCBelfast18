@@ -486,24 +486,42 @@ table.wcpt-schedule a {
 
 /* Schedule Session Categories */
 
-.wcb-session-category-community::after {
-	content: "Community";
+.wcb-session-category-community::after,
+.wcb-session-category-business::after,
+.wcb-session-category-design::after,
+.wcb-session-category-development::after,
+.wcb-session-category-hot-topic::after {
 	color: #555;
-	border: 1px solid #bada55;
 	border-radius: 6px;
 	padding: 2px 6px;
-	margin-top: 2px;
+	margin-top: 4px;
 	display: inline-block;
+}
+
+
+.wcb-session-category-community::after {
+	content: "Community";
+	border: 1px solid #0073aa;
 }
 
 .wcb-session-category-business::after {
 	content: "Business";
-	color: #555;
 	border: 1px solid #454545;
-	border-radius: 6px;
-	padding: 2px 6px;
-	margin-top: 2px;
-	display: inline-block;
+}
+
+.wcb-session-category-design::after {
+	content: "Design";
+	border: 1px solid #454545;
+}
+
+.wcb-session-category-development::after {
+	content: "Development";
+	border: 1px solid #454545;
+}
+
+.wcb-session-category-hot-topic::after {
+	content: "Hot Topic";
+	border: 1px solid #454545;
 }
 
 @media only screen and (max-width: 30em) {}
