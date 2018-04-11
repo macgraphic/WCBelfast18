@@ -480,6 +480,10 @@ td.wcb-favourite-session a.fav-session-button {
 }
 
 
+table.wcpt-schedule a {
+	text-decoration: none !important;
+}
+
 @media only screen and (max-width: 30em) {}
 
 @media only screen and (min-width: 40.063em) {
