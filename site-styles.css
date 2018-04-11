@@ -494,7 +494,7 @@ table.wcpt-schedule a.wcpt-session-title:hover {
 	color: #1f141c;
 }
 
-table.wcpt-schedule span.wcpt-session-speakers {
+table.wcpt-schedule .wcpt-session-speakers {
 	font-size: .85rem;
 	color: #fab200;
 }
