@@ -468,6 +468,7 @@ body.home .entry-content {
 
 body.page-id-1527 h2 {
 	text-align: center;
+	font-weight: 400;
 }
 
 table.wcpt-schedule td.wcpt-time {
@@ -476,6 +477,10 @@ table.wcpt-schedule td.wcpt-time {
 
 table.wcpt-schedule {
 	border-color: #fab200 !important;
+}
+
+table.wcpt-schedule td.wcb-track-farset-labs {
+	text-align: center;
 }
 
 table.wcpt-schedule tr:nth-child(even) {
