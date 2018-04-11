@@ -466,6 +466,20 @@ body.home .entry-content {
 
 /* Schedule Table */
 
+body.page-id-1527 h2 {
+	text-align: center;
+}
+
+table.wcpt-schedule td.wcpt-time {
+	font-size: .9rem;
+}
+
+table.wcpt-schedule td.wcpt-session-type-custom {
+	text-align: center;
+	background: rgba(250,178,0,0.4);
+	color: #1f141c;
+}
+
 a.fav-session-button {
 	color: #d5d5d5 !important;
 	text-decoration: none !important;
