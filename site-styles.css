@@ -474,6 +474,18 @@ table.wcpt-schedule td.wcpt-time {
 	font-size: .9rem;
 }
 
+table.wcpt-schedule tr {
+	border-color: #fab200;
+}
+
+table.wcpt-schedule tr:nth-child(even) {
+	background: rgba(250,178,0,0.1);
+}
+
+table.wcpt-schedule tr:nth-child(odd) {
+	background: rgba(250,178,0,0.2);
+}
+
 table.wcpt-schedule td.wcpt-session-type-custom {
 	text-align: center;
 	background: rgba(250,178,0,0.4);
