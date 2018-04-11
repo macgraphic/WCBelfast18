@@ -279,15 +279,14 @@ table.tix_tickets_table thead th {
 @media screen and (min-width: 37.5em) {
 
 	.wcorg-organizer .wcorg-organizer-description {
-		padding-left: 6rem;
+		padding-left: 7rem;
 		min-height: 5rem;
 	}
 
 	.wcorg-organizer .avatar {
-		margin-left: -6rem;
+		margin-left: -7rem;
 		width: 5rem;
 		border-radius: 50%;
-		display: block;
 	}
 
 }
