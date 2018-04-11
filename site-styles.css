@@ -482,6 +482,7 @@ td.wcb-favourite-session a.fav-session-button {
 
 table.wcpt-schedule a {
 	text-decoration: none !important;
+	box-shadow: none !important;
 }
 
 /* Schedule Session Categories */
