@@ -464,6 +464,19 @@ body.home .entry-content {
 	margin-top: -12rem;
 }
 
+/* Schedule Table */
+
+div.wcb-session-favourite-icon a.fav-session-button {
+	color: #8a8a8a;
+	text-decoration: none;
+}
+
+div.wcb-session-favourite-icon a.fav-session-button:hover,
+#content a.fav-session-button:hover,
+td.wcb-favourite-session a.fav-session-button {
+	color: #fab200;
+}
+
 @media only screen and (max-width: 30em) {}
 
 @media only screen and (min-width: 40.063em) {
