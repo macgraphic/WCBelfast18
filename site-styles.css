@@ -491,7 +491,6 @@ table.wcpt-schedule a {
 .wcb-session-category-design::after,
 .wcb-session-category-development::after,
 .wcb-session-category-hot-topic::after {
-	color: #555;
 	border-radius: .85rem;
 	padding: 3px 8px;
 	margin-top: 4px;
@@ -503,26 +502,31 @@ table.wcpt-schedule a {
 .wcb-session-category-community::after {
 	content: "Community";
 	border: 2px solid #0073aa;
+	color: #0073aa;
 }
 
 .wcb-session-category-business::after {
 	content: "Business";
 	border: 2px solid #454545;
+	color: #454545;
 }
 
 .wcb-session-category-design::after {
 	content: "Design";
 	border: 2px solid #006837;
+	color: #006837;
 }
 
 .wcb-session-category-development::after {
 	content: "Development";
 	border: 2px solid #f7931e;
+	color: #f7931e;
 }
 
 .wcb-session-category-hot-topic::after {
 	content: "Hot Topic";
 	border: 2px solid #c1272d;
+	color: #c1272d;
 }
 
 @media only screen and (max-width: 30em) {}
