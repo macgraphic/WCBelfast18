@@ -479,9 +479,9 @@ table.wcpt-schedule td.wcpt-time {
 	vertical-align: middle;
 }
 
-table.wcpt-schedule {
+table.wcpt-schedule td {
 	border-color: #fab200 !important;
-	padding: 0.25rem;
+	padding: 0.5rem .5rem;
 }
 
 table.wcpt-schedule td.wcb-track-farset-labs,
