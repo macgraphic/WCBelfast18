@@ -280,6 +280,7 @@ table.tix_tickets_table thead th {
 
 	.wcorg-organizer .wcorg-organizer-description {
 		padding-left: 6rem;
+		margin-left: .5rem;
 		min-height: 7rem;
 	}
 
