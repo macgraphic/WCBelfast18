@@ -466,14 +466,15 @@ body.home .entry-content {
 
 /* Schedule Table */
 
-div.wcb-session-favourite-icon a.fav-session-button {
-	color: #d5d5d5;
+a.fav-session-button {
+	color: #d5d5d5 !important;
 	text-decoration: none !important;
 }
 
-div.wcb-session-favourite-icon a.fav-session-button:hover,
-#content a.fav-session-button:hover {
-	color: #fab200;
+a.fav-session-button:hover,
+a.fav-session-button:active,
+a.fav-session-button:focus {
+	color: #fab200 !important;
 	text-decoration: none !important;
 }
 
