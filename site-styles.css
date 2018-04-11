@@ -475,15 +475,15 @@ table.wcpt-schedule td.wcpt-time {
 }
 
 table.wcpt-schedule tr {
-	border-color: #fab200;
+	border-color: #fab200 !important;
 }
 
 table.wcpt-schedule tr:nth-child(even) {
-	background: rgba(250,178,0,0.1);
+	background: rgba(250,178,0,0.025);
 }
 
 table.wcpt-schedule tr:nth-child(odd) {
-	background: rgba(250,178,0,0.2);
+	background: rgba(250,178,0,0.05);
 }
 
 table.wcpt-schedule td.wcpt-session-type-custom {
@@ -491,6 +491,12 @@ table.wcpt-schedule td.wcpt-session-type-custom {
 	background: rgba(250,178,0,0.4);
 	color: #1f141c;
 }
+
+table.wcpt-schedule thead {
+	background: none;
+	font-size: .9rem;
+}
+
 
 a.fav-session-button {
 	color: #d5d5d5 !important;
