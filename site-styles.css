@@ -488,7 +488,7 @@ table.wcpt-schedule tr:nth-child(odd) {
 
 table.wcpt-schedule td.wcpt-session-type-custom {
 	text-align: center;
-	background: rgba(250,178,0,0.4);
+	background: rgba(250,178,0,0.2);
 	color: #1f141c;
 }
 
