@@ -468,7 +468,7 @@ body.home .entry-content {
 
 div.wcb-session-favourite-icon a.fav-session-button {
 	color: #8a8a8a;
-	text-decoration: none;
+	text-decoration: none !important;
 }
 
 div.wcb-session-favourite-icon a.fav-session-button:hover,
