@@ -481,6 +481,7 @@ table.wcpt-schedule td.wcpt-time {
 
 table.wcpt-schedule {
 	border-color: #fab200 !important;
+	padding: 0.25rem;
 }
 
 table.wcpt-schedule td.wcb-track-farset-labs,
