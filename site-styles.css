@@ -485,6 +485,20 @@ table.wcpt-schedule a {
 	box-shadow: none !important;
 }
 
+table.wcpt-schedule a.wcpt-session-title {
+	font-weight: 600;
+	color: #5d5d5d;
+}
+
+table.wcpt-schedule a.wcpt-session-title:hover {
+	color: #1f141c;
+}
+
+table.wcpt-schedule span.wcpt-session-speakers {
+	font-size: .85rem;
+	color: #fab200;
+}
+
 /* Schedule Session Categories */
 
 .wcb-session-category-community::after,
