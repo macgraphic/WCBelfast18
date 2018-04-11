@@ -276,6 +276,21 @@ table.tix_tickets_table thead th {
 	}
 }
 
+@media screen and (min-width: 37.5em) {
+
+	.wcorg-organizer .wcorg-organizer-description {
+		padding-left: 6rem;
+		min-height: 5rem;
+	}
+
+	.wcorg-organizer .avatar {
+		margin-left: -6rem;
+		width: 5rem;
+		border-radius: 50%;
+	}
+
+}
+
 @media screen and (min-width: 48em) {
 
 	#masthead .wrap {
