@@ -497,7 +497,9 @@ table.wcpt-schedule a.wcpt-session-title:hover {
 table.wcpt-schedule span.wcpt-session-speakers,
 table.wcpt-schedule span.wcpt-session-speakers a {
 	font-size: .85rem;
-	color: #fab200;
+	color: #757575;
+	display: flex;
+	font-style: italic;
 }
 
 /* Schedule Session Categories */
