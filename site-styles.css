@@ -466,24 +466,15 @@ body.home .entry-content {
 
 /* Schedule Table */
 
-div.wcb-session-favourite-icon a {
-	text-decoration: none !important;
-}
-
-div.wcb-session-favourite-icon a.fav-session-button:hover,
-div.wcb-session-favourite-icon a.fav-session-button:active,
-div.wcb-session-favourite-icon a.fav-session-button:focus {
-	text-decoration: none !important;
-}
-
 div.wcb-session-favourite-icon a.fav-session-button {
-	color: #8a8a8a;
+	color: #d5d5d5;
+	text-decoration: none !important;
 }
 
 div.wcb-session-favourite-icon a.fav-session-button:hover,
-#content a.fav-session-button:hover,
-td.wcb-favourite-session a.fav-session-button {
+#content a.fav-session-button:hover {
 	color: #fab200;
+	text-decoration: none !important;
 }
 
 @media only screen and (max-width: 30em) {}
