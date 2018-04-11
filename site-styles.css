@@ -284,10 +284,12 @@ table.tix_tickets_table thead th {
 	}
 
 	.wcorg-organizer .avatar {
-		margin: 0 0 1rem -7rem;
+		margin: 0 0 0 -7rem;
 		width: 5rem;
 		border-radius: 50%;
 	}
+
+	.wcorg-organizer .wcorg-organizer-description h4
 
 }
 
