@@ -475,6 +475,10 @@ table.wcpt-schedule td.wcpt-time {
 	font-size: .9rem;
 }
 
+.wcpt-schedule td.wcpt-time {
+	vertical-align: middle;
+}
+
 table.wcpt-schedule {
 	border-color: #fab200 !important;
 }
