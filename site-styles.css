@@ -589,17 +589,19 @@ table.wcpt-schedule span.wcpt-session-speakers a {
 
 .wcb-session-category-hot-topic::after {
 	content: "Hot Topic";
-	border: 2px solid #c1272d;
+	border-bottom: 2px solid #c1272d;
 }
 
 .wcb-session-category-business-hot-topic::after {
 	content: "Business / Hot Topic";
-	border: 2px solid #c1272d;
+	border-top: 2px solid #454545;
+	border-bottom: 2px solid #c1272d;
 }
 
 .wcb-session-category-design-development::after {
 	content: "Design / Development";
-	border: 2px solid #f7931e;
+	border-top: 2px solid #006837;
+	border-bottom: 2px solid #f7931e;
 }
 
 .wcb-session-category-business-development::after {
@@ -612,6 +614,12 @@ table.wcpt-schedule span.wcpt-session-speakers a {
 	content: "Business / Community";
 	border-top: 2px solid #454545;
 	border-bottom: 2px solid #0073aa;
+}
+
+.wcb-session-category-community-design::after {
+	content: "Community / Design";
+	border-top: 2px solid #0073aa;
+	border-bottom: 2px solid #006837;
 }
 
 @media only screen and (max-width: 30em) {}
