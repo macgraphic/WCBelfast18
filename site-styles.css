@@ -490,11 +490,11 @@ table.wcpt-schedule th.wcpt-col-track {
 }
 
 table.wcpt-schedule tr:nth-child(even) {
-	background: rgba(250,178,0,0.025);
+	background: rgba(10,10,10,0.025);
 }
 
 table.wcpt-schedule tr:nth-child(odd) {
-	background: rgba(250,178,0,0.05);
+	background: rgba(10,10,10,0.05);
 }
 
 table.wcpt-schedule td.wcpt-session-type-custom {
