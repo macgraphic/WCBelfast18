@@ -627,19 +627,23 @@ table.wcpt-schedule span.wcpt-session-speakers a {
 
 @media only screen and (min-width: 40.063em) {
 	.wcb_widget_sponsors .sponsor-level.admin a.sponsor-logo {
-		max-width: 403px;
+		max-width: 380px;
+		max-height: 139px;
 	}
 
 	.wcb_widget_sponsors .sponsor-level.editor a.sponsor-logo {
 		max-width: 300px;
+		max-height: 110px;
 	}
 
 	.wcb_widget_sponsors .sponsor-level.author a.sponsor-logo {
-		max-width: 199px;
+		max-width: 220px;
+		max-height: 81px;
 	}
 
 	.wcb_widget_sponsors .sponsor-level.contributor a.sponsor-logo {
-		max-width: 150px;
+		max-width: 160px;
+		max-height: 59px;
 	}
 }
 
