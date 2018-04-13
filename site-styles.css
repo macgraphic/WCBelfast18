@@ -605,6 +605,12 @@ table.wcpt-schedule span.wcpt-session-speakers a {
 	border-bottom: 2px solid #f7931e;
 }
 
+.wcb-session-category-business-development::after {
+	content: "Business / Development";
+	border-top: 2px solid #454545;
+	border-bottom: 2px solid #f7931e;
+}
+
 .wcb-session-category-business-community::after {
 	content: "Business / Community";
 	border-top: 2px solid #454545;
