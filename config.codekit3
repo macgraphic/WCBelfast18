@@ -7,7 +7,7 @@
 		"uuidString": "0514EBDB-218E-4881-900A-3DEC02FA0364"
 		}
 	],
-"creatorBuild": "26330",
+"creatorBuild": "26680",
 "files": {
 	"\/build\/.gitignore": {
 		"cB": 0,
@@ -46,6 +46,7 @@
 	"displayValue": "WCBelfast18",
 	"displayValueWasSetByUser": 0,
 	"iconImageName": "brackets_orange",
+	"iconImageWasSetByUser": 0,
 	"lastBuiltDate": 536776562
 	},
 "projectSettings": {
@@ -1849,6 +1850,7 @@
 		"autoOutputPathReplace1": "",
 		"autoOutputPathReplace2": "",
 		"autoOutputPathStyle": 0,
+		"outputFormat": 0,
 		"quality": 100
 		},
 	"languageDefaultsJS": {

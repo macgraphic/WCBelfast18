@@ -591,6 +591,12 @@ table.wcpt-schedule span.wcpt-session-speakers a {
 	color: #c1272d;
 }
 
+.wcb-session-category-business-hot-topic::after {
+	content: "Business / Hot Topic";
+	border: 2px solid #c1272d;
+	color: #454545;
+}
+
 @media only screen and (max-width: 30em) {}
 
 @media only screen and (min-width: 40.063em) {
