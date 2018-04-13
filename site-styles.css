@@ -553,7 +553,8 @@ table.wcpt-schedule span.wcpt-session-speakers a {
 .wcb-session-category-development::after,
 .wcb-session-category-design-development::after,
 .wcb-session-category-hot-topic::after,
-.wcb-session-category-business-hot-topic::after {
+.wcb-session-category-business-hot-topic::after,
+.wcb-session-category-business-development::after {
 	border-radius: .85rem;
 	padding: 3px 8px;
 	margin-top: 4px;
@@ -602,6 +603,13 @@ table.wcpt-schedule span.wcpt-session-speakers a {
 .wcb-session-category-design-development::after {
 	content: "Design / Development";
 	border: 2px solid #f7931e;
+	color: #f7931e;
+}
+
+.wcb-session-category-business-development::after {
+	content: "Design / Development";
+	border-top: 2px solid #c1272d;
+	border-bottom: 2px solid #f7931e;
 	color: #f7931e;
 }
 
