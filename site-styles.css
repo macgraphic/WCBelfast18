@@ -363,6 +363,7 @@ body.page-id-9 #wcorg-session-1736 {
 		background-position: bottom center;
 		background-repeat: repeat-x;
 		padding-bottom: 8em;
+		padding-top: 6.6rem !important;
 	}
 
 	.page:not(.home) #content {
@@ -373,9 +374,9 @@ body.page-id-9 #wcorg-session-1736 {
 		margin-top: 0px;
 	}
 
-	body.page-id-9 .wcorg-session {
+/*	body.page-id-9 .wcorg-session {
 		margin-top: 6.4rem;
-	}
+	}*/
 
 /* The following needs amended */
 /*	body.page-slug-call-for-sponsors .contact-form input {
