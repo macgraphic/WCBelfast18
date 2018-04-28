@@ -369,8 +369,8 @@ body.page-id-9 #wcorg-session-1736 {
 		padding-bottom: 8em;
 	}
 
-	.page-slug-sessions #content,
-	.page-slug-our-speakers #content {
+	.page-slug-sessions #content .wcorg-session,
+	.page-slug-our-speakers #content .wcorg-speakers {
 		padding-top: 8rem;
 	}
 
