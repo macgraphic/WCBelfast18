@@ -262,6 +262,13 @@ table.tix_tickets_table thead th {
 	padding: .5rem;
 }
 
+body.page-id-9 #wcorg-session-1736,
+body.page-id-9 #wcorg-session-1734,
+body.page-id-9 #wcorg-session-1732,
+body.page-id-9 #wcorg-session-1730,
+body.page-id-9 #wcorg-session-1736 {
+	display: none;
+}
 
 
 @media only screen and (min-width: 30em) {
@@ -366,12 +373,10 @@ table.tix_tickets_table thead th {
 		margin-top: 0px;
 	}
 
-	body.page-id-9 #wcorg-session-1736,
-	body.page-id-9 #wcorg-session-1734,
-	body.page-id-9 #wcorg-session-1732,
-	body.page-id-9 #wcorg-session-1730,
-	body.page-id-9 #wcorg-session-1736 {
-		display: none;
+	
+
+	body.page-id-9 #wcorg-session {
+		margin-top: 4rem;
 	}
 
 /* The following needs amended */
