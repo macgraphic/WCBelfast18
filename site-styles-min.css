@@ -117,7 +117,8 @@ body.page-id-9 #wcorg-session-1736, body.page-id-9 #wcorg-session-1734, body.pag
   .panel-image img { max-height: 400px; width: 1200px; max-width: 100%; margin: 0 auto; }
   .background-fixed .panel-image { border-bottom: 4px solid #fab200; background-attachment: initial; }
   #content.site-content { background: url("https://2018.belfast.wordcamp.org/files/2017/12/belfast.png"); background-position: bottom center; background-repeat: repeat-x; padding-bottom: 8em; }
-  .page:not(.home) #content { padding-bottom: 8em; padding-top: 7.6rem !important; }
+  .page:not(.home) #content { padding-bottom: 8em; }
+  .page-slug-sessions #content, .page-slug-our-speakers #content { padding-top: 8rem; }
   .site-footer { margin-top: 0px; }
   /*	body.page-id-9 .wcorg-session { margin-top: 6.4rem; }*/
   /* The following needs amended */

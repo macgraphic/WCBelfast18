@@ -367,7 +367,11 @@ body.page-id-9 #wcorg-session-1736 {
 
 	.page:not(.home) #content {
 		padding-bottom: 8em;
-		padding-top: 7.6rem !important;
+	}
+
+	.page-slug-sessions #content,
+	.page-slug-our-speakers #content {
+		padding-top: 8rem;
 	}
 
 	.site-footer {
