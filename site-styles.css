@@ -363,11 +363,11 @@ body.page-id-9 #wcorg-session-1736 {
 		background-position: bottom center;
 		background-repeat: repeat-x;
 		padding-bottom: 8em;
-		padding-top: 6.6rem !important;
 	}
 
 	.page:not(.home) #content {
 		padding-bottom: 8em;
+		padding-top: 6.6rem !important;
 	}
 
 	.site-footer {
