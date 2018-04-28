@@ -378,6 +378,13 @@ body.page-id-9 #wcorg-session-1736 {
 		margin-top: 0px;
 	}
 
+	.site-footer .widget-column.footer-widget-2 {
+		float: none;
+		width:100%;
+		margin: 0 auto;
+		text-align: center;
+	}
+
 /*	body.page-id-9 .wcorg-session {
 		margin-top: 6.4rem;
 	}*/

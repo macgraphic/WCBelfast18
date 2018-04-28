@@ -120,6 +120,7 @@ body.page-id-9 #wcorg-session-1736, body.page-id-9 #wcorg-session-1734, body.pag
   .page:not(.home) #content { padding-bottom: 8em; }
   .page-slug-sessions #content .wcorg-session, .page-slug-our-speakers #content .wcorg-speakers { padding-top: 8rem; }
   .site-footer { margin-top: 0px; }
+  .site-footer .widget-column.footer-widget-2 { float: none; width: 100%; margin: 0 auto; text-align: center; }
   /*	body.page-id-9 .wcorg-session { margin-top: 6.4rem; }*/
   /* The following needs amended */
   /*	body.page-slug-call-for-sponsors .contact-form input { max-width: 48% !important; display: inline-block !important; float: right; } body.page-slug-call-for-sponsors .contact-form label { display: inline-block; }*/ }
