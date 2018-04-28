@@ -366,6 +366,14 @@ table.tix_tickets_table thead th {
 		margin-top: 0px;
 	}
 
+	body.page-id-9 #wcorg-session-1736,
+	body.page-id-9 #wcorg-session-1734,
+	body.page-id-9 #wcorg-session-1732,
+	body.page-id-9 #wcorg-session-1730,
+	body.page-id-9 #wcorg-session-1736 {
+		display: none;
+	}
+
 /* The following needs amended */
 /*	body.page-slug-call-for-sponsors .contact-form input {
 		max-width: 48% !important;
