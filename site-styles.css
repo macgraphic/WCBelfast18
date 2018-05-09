@@ -668,6 +668,11 @@ table.wcpt-schedule span.wcpt-session-speakers a {
 		max-width: 160px;
 		max-height: 59px;
 	}
+
+	.wcb_widget_sponsors .sponsor-level.subscriber a.sponsor-logo {
+		max-width: 140px;
+		max-height: 51px;
+	}
 }
 
 
