@@ -721,7 +721,8 @@ table.wcpt-schedule span.wcpt-session-speakers a {
 	.wcb_widget_sponsors .sponsor-level.admin a.sponsor-logo,
 	.wcb_widget_sponsors .sponsor-level.editor a.sponsor-logo,
 	.wcb_widget_sponsors .sponsor-level.author a.sponsor-logo,
-	.wcb_widget_sponsors .sponsor-level.contributor a.sponsor-logo {
+	.wcb_widget_sponsors .sponsor-level.contributor a.sponsor-logo,
+	.wcb_widget_sponsors .sponsor-level.subscriber a.sponsor-logo {
 		max-width: 150px !important;
 		max-height: 55px !important;
 	}

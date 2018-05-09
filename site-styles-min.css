@@ -219,4 +219,4 @@ table.wcpt-schedule span.wcpt-session-speakers, table.wcpt-schedule span.wcpt-se
   .site-footer h2.widget-title { font-size: 1.5rem; }
   body.home .panel-image { display: none; }
   body.home .entry-content { margin-top: 0rem; }
-  .wcb_widget_sponsors .sponsor-level.admin a.sponsor-logo, .wcb_widget_sponsors .sponsor-level.editor a.sponsor-logo, .wcb_widget_sponsors .sponsor-level.author a.sponsor-logo, .wcb_widget_sponsors .sponsor-level.contributor a.sponsor-logo { max-width: 150px !important; max-height: 55px !important; } }
+  .wcb_widget_sponsors .sponsor-level.admin a.sponsor-logo, .wcb_widget_sponsors .sponsor-level.editor a.sponsor-logo, .wcb_widget_sponsors .sponsor-level.author a.sponsor-logo, .wcb_widget_sponsors .sponsor-level.contributor a.sponsor-logo, .wcb_widget_sponsors .sponsor-level.subscriber a.sponsor-logo { max-width: 150px !important; max-height: 55px !important; } }
