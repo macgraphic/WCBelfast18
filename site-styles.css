@@ -669,7 +669,8 @@ table.wcpt-schedule span.wcpt-session-speakers a {
 		max-height: 59px;
 	}
 
-	.wcb_widget_sponsors .sponsor-level.subscriber a.sponsor-logo {
+	.wcb_widget_sponsors .sponsor-level.subscriber a.sponsor-logo,
+	.wcb_widget_sponsors .sponsor-level.sponsor-in-kind a.sponsor-logo {
 		max-width: 140px;
 		max-height: 51px;
 	}
@@ -722,7 +723,8 @@ table.wcpt-schedule span.wcpt-session-speakers a {
 	.wcb_widget_sponsors .sponsor-level.editor a.sponsor-logo,
 	.wcb_widget_sponsors .sponsor-level.author a.sponsor-logo,
 	.wcb_widget_sponsors .sponsor-level.contributor a.sponsor-logo,
-	.wcb_widget_sponsors .sponsor-level.subscriber a.sponsor-logo {
+	.wcb_widget_sponsors .sponsor-level.subscriber a.sponsor-logo,
+	.wcb_widget_sponsors .sponsor-level.sponsor-in-kind a.sponsor-logo {
 		max-width: 150px !important;
 		max-height: 55px !important;
 	}
